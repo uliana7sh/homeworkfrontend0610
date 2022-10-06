@@ -1,0 +1,24 @@
+h1{
+    color:blue;
+    margin 6px ;
+    background-color: rgba(221, 229, 223);    
+        padding: 6 px;}
+        h2{
+      color :rgb(127, 61, 189) ;
+      margin 6 px ;
+      background-color: rgba(130, 182, 164);
+      padding: 16 px;     }
+      h3{
+        color: rgb(34, 100, 34);
+        background-color: rgba(111, 193, 166);
+        padding 16 px;
+        
+    
+      }
+      body{
+        background-color: rgb(147, 147, 215);
+      }
+      
+        .falenopsis {
+        img  width:300 px;
+        }
